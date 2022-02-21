@@ -12,7 +12,7 @@ conda install -c menpo opencv3
 
 python main.py 
 
-#### How does that works??
+#### How does it work??
 
 You can find test videos in directory ./videos
 After running ./main.py you will see 5 frames
