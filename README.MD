@@ -1,4 +1,4 @@
-####To install run on Windows with Anaconda
+#### To install run on Windows with Anaconda
 
 ```conda env create traffic-light-detector/environment-gpu.yml```
  
@@ -8,11 +8,11 @@
 
 ```conda install -c menpo opencv3```
 
-####Then run
+#### Then run
 
 ```python main.py```
 
-#### How does it work??
+#### Instruction to run the application: 
 
 You can find test videos in directory ```./videos```
 After running ```./main.py``` you will see 5 frames:
