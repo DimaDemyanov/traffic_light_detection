@@ -17,7 +17,7 @@
 You can find test videos in directory ```./videos```
 After running ```./main.py``` you will see 5 frames:
 
-First - image with only traffic light (algorithm that finds traffic lights is Faster RCNN trained on COCO 
+First - image with only traffic light (algorithm that locates traffic lights is Faster RCNN trained on COCO 
 data set on 11.06.2017)
 
 Next three frames are traffic light masks made with threshold filter in HSV. 
